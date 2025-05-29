@@ -1,6 +1,6 @@
 # 📸 Image Gallery App
 
-A responsive image search gallery built with JavaScript.  
+A responsive image search gallery built with React.  
 Uses the Unsplash API to fetch and display beautiful images with real-time search, modals, and pagination.
 
 ## 🚀 Features
@@ -14,7 +14,7 @@ Uses the Unsplash API to fetch and display beautiful images with real-time searc
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS
+- React
 - JavaScript (ES6+)
 - Axios
 - Unsplash API
